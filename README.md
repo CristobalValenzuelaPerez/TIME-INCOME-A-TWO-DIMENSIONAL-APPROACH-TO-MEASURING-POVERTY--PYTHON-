@@ -17,7 +17,7 @@ The raw microdata utilised in this project is sourced from the **UK Time Use Sur
 Due to strict data governance and respondent privacy regulations, the raw `.dta` files are not included in this repository. 
 
 Researchers and analysts can request access to the original datasets directly through the official UK Data Service portal:
-🔗 [UK Data Service - UK Time Use Survey 2014-2015](https://datacatalogue.ukdataservice.ac.uk/studies/study/8128#details)
+[UK Data Service - UK Time Use Survey 2014-2015](https://datacatalogue.ukdataservice.ac.uk/studies/study/8128#details)
 
 ## Methodology & Machine Learning Pipeline
 
