@@ -30,9 +30,7 @@ Researchers and analysts can request access to the original datasets directly th
 * **Clustering (DBSCAN & K-Means):** Explored hidden cultural patterns affecting the gender division of unpaid work.
 * **UMAP Visualisation:** Reduced high-dimensional feature spaces into a 2D projection to visually validate cultural time-allocation behaviours.
 
-<img width="700" height="700" alt="graph UMAP Dimensionality Reduction" src="https://github.com/user-attachments/assets/3cd0b21e-bdc7-4a45-9f9a-77fd6cc2d9fd" />
-
-![UMAP Dimensionality Reduction](images/graph%20UMAP%20Dimensionality%20Reduction.png)
+<img width="348" height="348" alt="graph UMAP Dimensionality Reduction" src="https://github.com/user-attachments/assets/3cd0b21e-bdc7-4a45-9f9a-77fd6cc2d9fd" />
 
 ### 3. Statistical Inference (`Statsmodels`)
 * **Multinomial Logistic Regression:** Evaluated the structural drivers of multidimensional poverty. Handled complete separation issues (Hauck-Donner effect) by applying a **General-to-Specific** modelling approach to isolate highly significant variables.
