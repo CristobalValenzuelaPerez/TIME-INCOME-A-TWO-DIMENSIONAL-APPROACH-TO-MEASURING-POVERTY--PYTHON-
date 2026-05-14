@@ -49,9 +49,9 @@ The econometric inference revealed that simultaneous time and income poverty is 
 2. **Material Assets:** The lack of time-saving appliances (e.g., Dishwashers) and the lack of personal transport (Vehicles) exponentially increase the likelihood of falling into the trap.
 3. **Household Structure:** Single parents with young children face the highest intersectional vulnerability, highlighting where public policy interventions (like subsidised childcare) would be most effective.
 
-<img width="1168" height="490" alt="graph child04_HH&#39;, &#39;Infants in Household" src="https://github.com/user-attachments/assets/60db376b-7155-4892-bdf7-c5dcfb19d9cb" />
+<img width="626.43" height="262.8" alt="graph child04_HH&#39;, &#39;Infants in Household" src="https://github.com/user-attachments/assets/60db376b-7155-4892-bdf7-c5dcfb19d9cb" />
 
-<img width="1168" height="490" alt="graph VehOwn&#39;, &#39;Vehicle in Household" src="https://github.com/user-attachments/assets/81ec1b3e-e89b-4a26-9d4d-d5404cf0643a" />
+<img width="626.43" height="262.8" alt="graph VehOwn&#39;, &#39;Vehicle in Household" src="https://github.com/user-attachments/assets/81ec1b3e-e89b-4a26-9d4d-d5404cf0643a" />
 
 
 <p float="left">
