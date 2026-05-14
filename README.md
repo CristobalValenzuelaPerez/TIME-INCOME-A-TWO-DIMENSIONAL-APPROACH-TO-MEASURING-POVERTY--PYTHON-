@@ -10,7 +10,7 @@ Traditional economics often measures poverty strictly through an income lens. Ho
 
 Using the **UK Time Use Survey (2014-2015)**, this analytical engine processes raw microdata to engineer a holistic index of resources, deploying a full pipeline of unsupervised clustering, rigorous econometrics, and supervised Machine Learning to predict vulnerability to this multidimensional poverty trap.
 
-<img src="images/graph%201.png" alt="Free Time vs Income Distribution" width="50%">
+<img src="images/graph%201.png" alt="Free Time vs Income Distribution" width="40%">
 
 ## Data Source & Reproducibility
 The raw microdata utilised in this project is sourced from the **UK Time Use Survey (2014-2015)**. 
