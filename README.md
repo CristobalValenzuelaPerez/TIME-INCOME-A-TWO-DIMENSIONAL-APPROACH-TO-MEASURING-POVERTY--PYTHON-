@@ -9,8 +9,9 @@
 Traditional economics often measures poverty strictly through an income lens. However, time—like money—is a finite, critical resource. This project develops a robust mathematical framework to identify the **"Time-Income Trap"**: individuals who lack the monetary resources to buy services on the market, *and* lack the free time to perform unpaid care or domestic work themselves.
 
 Using the **UK Time Use Survey (2014-2015)**, this analytical engine processes raw microdata to engineer a holistic index of resources, deploying a full pipeline of unsupervised clustering, rigorous econometrics, and supervised Machine Learning to predict vulnerability to this multidimensional poverty trap.
-
-<img src="images/graph%201.png" alt="Free Time vs Income Distribution" width="40%">
+<p align="center">
+  <img src="images/graph%201.png" alt="Free Time vs Income Distribution" width="40%">
+</p>
 
 ## Data Source & Reproducibility
 The raw microdata utilised in this project is sourced from the **UK Time Use Survey (2014-2015)**. 
@@ -30,7 +31,9 @@ Researchers and analysts can request access to the original datasets directly th
 * **Clustering (DBSCAN & K-Means):** Explored hidden cultural patterns affecting the gender division of unpaid work.
 * **UMAP Visualisation:** Reduced high-dimensional feature spaces into a 2D projection to visually validate cultural time-allocation behaviours.
 
-<img src="images/graph%20UMAP%20Dimensionality%20Reduction.png" alt="UMAP Dimensionality Reduction" width="40%">
+<p align="center">
+  <img src="images/graph%20UMAP%20Dimensionality%20Reduction.png" alt="UMAP Dimensionality Reduction" width="40%">
+</p>
 
 ### 3. Statistical Inference (`Statsmodels`)
 * **Multinomial Logistic Regression:** Evaluated the structural drivers of multidimensional poverty. Handled complete separation issues (Hauck-Donner effect) by applying a **General-to-Specific** modelling approach to isolate highly significant variables.
